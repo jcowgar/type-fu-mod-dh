@@ -21,7 +21,7 @@ Once found
 1. Place moddh.json in the `frontend\assets\layouts` directory
 2. Open `frontend.js` in your favorite text editor
 3. Search for 'workman', it should look something like `{id:"workman",label:"Workman"},`
-4. Add an enrty before or after that, `id:"moddh",label:"Colemak - Mod-DH"},`
+4. Add an enrty before or after that, `{id:"moddh",label:"Colemak - Mod-DH"},`
 5. Start Type Fu
 6. In Preferences, choose "Colemak - Mod-DH"
 7. Begin learning!
