@@ -6,6 +6,8 @@ application or as an application within Google Chrome for all platforms. It
 supports many layouts out of the box including Colemak, but it does not support
 the Mod-DH addition to Colemak. Thus, this repository.
 
+![Type Fu Screen Shot](https://github.com/jcowgar/type-fu-mod-dh/blob/master/screen-shot.png)
+
 Installation
 ------------
 
@@ -29,5 +31,5 @@ Once found
 Notes
 -----
 
-I left the lessons the alone, thus they you learn the keys in the same order
-as the base Colemak layout, which really works out well.
+I left the lessons alone, thus you learn the keys in the same order
+as the base Colemak layout, which works out well.
